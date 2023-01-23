@@ -1,0 +1,1 @@
+# Design-and-simulate-octal-to-binary-encoder-using-verilog
