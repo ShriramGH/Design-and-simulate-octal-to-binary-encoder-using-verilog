@@ -15,3 +15,8 @@ As an example, let’s consider Octal to Binary encoder. As shown in the followi
 
 
 ![encoder](https://user-images.githubusercontent.com/117991122/215278640-3c911103-d434-4baa-90c2-e98991303e6c.png)
+
+## Logic Diagram:
+
+![encoderld](https://user-images.githubusercontent.com/117991122/215278894-0e843d21-6a1b-490e-b585-bc32de5e013d.png)
+
